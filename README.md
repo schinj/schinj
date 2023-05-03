@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Sachin
 - 👀 I’m interested in developing mobile apps
-- 🌱 I’m currently learning nothing(sad!!)
 - 💞️ I’m looking to collaborate on *some path-of-humanity-changing* idea.
 - 📫 How to reach me ...
 
